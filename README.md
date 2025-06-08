@@ -28,4 +28,9 @@ Requisitos Técnicos:<br>
 
 - Use arrays para armazenar os dados.<br>
 
-- Utilize estrutura sequencial com for.
+- Utilize estrutura sequencial com for.<br><br>
+
+Exemplo de Saída no console:<br>
+
+![image](https://github.com/user-attachments/assets/f2385924-3853-41cc-8d99-7d15b34bf177)
+
